@@ -5,10 +5,10 @@ This project is part of the **Responsive Web Design Certification** offered by [
 It demonstrates the creation of a visually appealing café menu using HTML and CSS while adhering to modern web design principles. <br>
 
 <h2> 🛠️ Features  </h2><br>
-- **Responsive Design**: Ensures the menu is accessible and visually pleasing across all devices, including desktops, tablets, and smartphones.  <br>
-- **Clean Layout**: A simple and user-friendly layout to display menu items with proper categorization.  <br>
-- **Custom Styling**: Handcrafted CSS for unique typography, spacing, and aesthetic appeal.  <br>
-- **Accessibility**: Structured content and semantic HTML for improved accessibility.  <br>
+- Responsive Design: Ensures the menu is accessible and visually pleasing across all devices, including desktops, tablets, and smartphones.  <br>
+- Clean Layout: A simple and user-friendly layout to display menu items with proper categorization.  <br>
+- Custom Styling: Handcrafted CSS for unique typography, spacing, and aesthetic appeal.  <br>
+- Accessibility: Structured content and semantic HTML for improved accessibility.  <br>
 
 <h2>🚀 Skills Demonstrated </h2> <br>
 - Writing semantic HTML for better structure and readability.  <br>
